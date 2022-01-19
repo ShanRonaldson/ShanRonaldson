@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there 👀
 
-<!--
-**ShanSchrauwen/ShanSchrauwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Welcome to my GitHub page 🥳
 
-Here are some ideas to get you started:
+👩‍💻 My experience is mostly frontend but I dream to be a fullstack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Currently I am working on finishing my degree in Software engineering at Haaga-Helia polytechnic university. 
+
+I have experience in:
+- JavaScript ⭐⭐⭐/⭐⭐⭐⭐⭐
+- TypeScript ⭐/⭐⭐⭐⭐⭐
+- React ⭐⭐⭐/⭐⭐⭐⭐⭐
+- SQL ⭐⭐⭐/⭐⭐⭐⭐⭐
+- Node.js ⭐⭐⭐⭐/⭐⭐⭐⭐⭐
+- ASP.NET Web forms ⭐⭐/⭐⭐⭐⭐⭐
+- C# ⭐/⭐⭐⭐⭐⭐
+
+💻 Want to see my work in action? Check out my website [shanschrauwen.com](https://shanschrauwen.com)
