@@ -2,9 +2,9 @@
 
 #### Welcome to my GitHub page 🥳
 
-👩‍💻 My experience is mostly frontend but I dream to be a fullstack developer.
+👩‍💻 Passionate about UI/UX development and UED, with way too much knowledge on WCAG accessibility.
 
-🏆 Currently I am working on finishing my degree in Software engineering at Haaga-Helia polytechnic university. 
+📚 BBA Information Technology - major in Frontend Development and UI/UX design.
 
 ---
 
